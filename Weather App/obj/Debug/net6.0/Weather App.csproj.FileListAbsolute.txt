@@ -1,0 +1,26 @@
+C:\Users\Aleksandra\Desktop\STUDIA\Weather App\Weather App\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Aleksandra\Desktop\STUDIA\Weather App\Weather App\bin\Debug\net6.0\appsettings.json
+C:\Users\Aleksandra\Desktop\STUDIA\Weather App\Weather App\bin\Debug\net6.0\Weather App.staticwebassets.runtime.json
+C:\Users\Aleksandra\Desktop\STUDIA\Weather App\Weather App\bin\Debug\net6.0\Weather App.exe
+C:\Users\Aleksandra\Desktop\STUDIA\Weather App\Weather App\bin\Debug\net6.0\Weather App.deps.json
+C:\Users\Aleksandra\Desktop\STUDIA\Weather App\Weather App\bin\Debug\net6.0\Weather App.runtimeconfig.json
+C:\Users\Aleksandra\Desktop\STUDIA\Weather App\Weather App\bin\Debug\net6.0\Weather App.dll
+C:\Users\Aleksandra\Desktop\STUDIA\Weather App\Weather App\bin\Debug\net6.0\Weather App.pdb
+C:\Users\Aleksandra\Desktop\STUDIA\Weather App\Weather App\obj\Debug\net6.0\Weather App.csproj.AssemblyReference.cache
+C:\Users\Aleksandra\Desktop\STUDIA\Weather App\Weather App\obj\Debug\net6.0\Weather App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aleksandra\Desktop\STUDIA\Weather App\Weather App\obj\Debug\net6.0\Weather App.AssemblyInfoInputs.cache
+C:\Users\Aleksandra\Desktop\STUDIA\Weather App\Weather App\obj\Debug\net6.0\Weather App.AssemblyInfo.cs
+C:\Users\Aleksandra\Desktop\STUDIA\Weather App\Weather App\obj\Debug\net6.0\Weather App.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandra\Desktop\STUDIA\Weather App\Weather App\obj\Debug\net6.0\Weather App.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Aleksandra\Desktop\STUDIA\Weather App\Weather App\obj\Debug\net6.0\Weather App.RazorAssemblyInfo.cache
+C:\Users\Aleksandra\Desktop\STUDIA\Weather App\Weather App\obj\Debug\net6.0\Weather App.RazorAssemblyInfo.cs
+C:\Users\Aleksandra\Desktop\STUDIA\Weather App\Weather App\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Aleksandra\Desktop\STUDIA\Weather App\Weather App\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Aleksandra\Desktop\STUDIA\Weather App\Weather App\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Aleksandra\Desktop\STUDIA\Weather App\Weather App\obj\Debug\net6.0\scopedcss\bundle\Weather App.styles.css
+C:\Users\Aleksandra\Desktop\STUDIA\Weather App\Weather App\obj\Debug\net6.0\scopedcss\projectbundle\Weather App.bundle.scp.css
+C:\Users\Aleksandra\Desktop\STUDIA\Weather App\Weather App\obj\Debug\net6.0\Weather App.dll
+C:\Users\Aleksandra\Desktop\STUDIA\Weather App\Weather App\obj\Debug\net6.0\refint\Weather App.dll
+C:\Users\Aleksandra\Desktop\STUDIA\Weather App\Weather App\obj\Debug\net6.0\Weather App.pdb
+C:\Users\Aleksandra\Desktop\STUDIA\Weather App\Weather App\obj\Debug\net6.0\Weather App.genruntimeconfig.cache
+C:\Users\Aleksandra\Desktop\STUDIA\Weather App\Weather App\obj\Debug\net6.0\ref\Weather App.dll
